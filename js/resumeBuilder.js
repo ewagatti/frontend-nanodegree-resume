@@ -248,6 +248,7 @@ $("#footerContacts").append(formattedLocation);
 
 projects.display();
 
+
 // The click() function makes it possible for console.log() to output grid coordinates for wherever the screen is clicked. //
 
 $(document).click(function(loc) {
